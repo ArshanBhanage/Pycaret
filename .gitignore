@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv
+.venv3.10
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Large data files (optional - uncomment if you have large datasets)
+# *.csv
+# *.parquet
+# *.h5
+# data/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# PyCaret artifacts - KEEP THESE IN GIT
+# Keep model files and logs
+# *.pkl
+# *.joblib
+# logs/
+
+# Exclude large experiment files (exceed GitHub size limit)
+my_experiment
+mlruns/
