@@ -2,7 +2,7 @@
 
 A comprehensive collection of machine learning notebooks using PyCaret - a low-code Python library for automating machine learning workflows.
 
-## 📚 Notebooks Overview
+## 📚 Notebooks Overview (Click each title to view video submission)
 
 ### 1. [Anomaly Detection](https://www.youtube.com/watch?v=bG9tmUrlts0)
 Demonstrates unsupervised anomaly detection using Isolation Forest on the mice dataset. Identifies outliers and unusual patterns in data with automatic preprocessing and visualization using t-SNE plots.
