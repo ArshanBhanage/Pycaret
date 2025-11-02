@@ -4,10 +4,10 @@ A comprehensive collection of machine learning notebooks using PyCaret - a low-c
 
 ## 📚 Notebooks Overview (Click each title to view video submission)
 
-### 1. [Anomaly Detection](https://www.youtube.com/watch?v=bG9tmUrlts0)
+### 1. [Anomaly Detection](https://youtu.be/bG9tmUrlts0)
 Demonstrates unsupervised anomaly detection using Isolation Forest on the mice dataset. Identifies outliers and unusual patterns in data with automatic preprocessing and visualization using t-SNE plots.
 
-### 2. [Association Rule Mining](https://www.youtube.com/watch?v=SU7L9jSYcRM)
+### 2. [Association Rule Mining](https://youtu.be/SU7L9jSYcRM)
 Explores market basket analysis using the Apriori algorithm on Germany retail transaction data. Discovers hidden patterns and relationships between products with support, confidence, and lift metrics.
 
 ### 3. [Binary Classification](https://www.youtube.com/watch?v=crQvj7BApX8)
